@@ -17,3 +17,5 @@ A command-line program that lets users add expenses, view their recorded expense
 - Loops
 - Lists
 - User input
+
+currently learning Git branching and GitHub workflows
